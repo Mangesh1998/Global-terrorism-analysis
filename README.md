@@ -16,7 +16,7 @@ Clean the data
 Prepare the data for processing and analysis
 Perform data pre-processing to manipulate the data for analysis and draft out targeted tables for analysis
 Analyze the data more deeply and extract insights
-Visualize the data using Python and Tableau. Check out the Tableau Workbook on Gobal_terrorism_analysis by Mangesh Rohankar
+Visualize the data using Python and Tableau. Check out the Tableau Workbook on Gobal_terrorism_analysis by Mangesh Rohankarhttps://public.tableau.com/app/profile/mangesh.rohankar/viz/Global_Terrorism_Analysis_16969128136430/Dashboard1?publish=yes
 
 Glimpses of the Prime Findings
 1) 28.04 % of all events and a staggering 36.47 % of total casualties have been exclusively from the Middle East and North African region.
